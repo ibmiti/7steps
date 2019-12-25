@@ -399,7 +399,7 @@ ul.contact li a.icon-rss:before
 	font-weight: 700;
 	color: #ED7070;
 	padding-right: 0.50em;
-	border-right: 1px solid rgba(0,0,0,.1);
+	/* border-right: 1px solid rgba(0,0,0,.1); */
 }
 
 #logo span
